@@ -3,7 +3,6 @@ import Container from "../Container"
 import Images from "../Images"
 import bannerImg from '../../assets/bannerImg.png'
 
-
 const Banner = () => {
     return (
         <>
