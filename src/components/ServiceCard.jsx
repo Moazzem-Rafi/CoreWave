@@ -6,7 +6,7 @@ import serviceCard_1 from '/src/assets/serviceImg_1.png'
 const ServiceCard = () => {
     return (
         <>
-            <div className="bg-[#ddf6ee] py-50">
+            <div className="">
                 <Container>
                     <div className="flex gap-x-3">
                         <div className="bg-white h-[322px] w-[312px]">
